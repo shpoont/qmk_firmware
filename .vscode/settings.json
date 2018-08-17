@@ -8,12 +8,14 @@
         "**/*.hex": true
     },
     "files.associations": {
-      "*.h": "c",
-      "*.c": "c",
-      "*.cpp": "cpp",
-      "*.hpp": "cpp",
-      "xstddef": "c",
-      "type_traits": "c",
-      "utility": "c"
+        "*.c": "c",
+        "*.cpp": "cpp",
+        "*.h": "c",
+        "*.hpp": "cpp",
+        "locale": "c",
+        "string": "c"
+        "type_traits": "c",
+        "utility": "c",
+        "xstddef": "c"
     }
 }
