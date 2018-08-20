@@ -60,6 +60,8 @@ util/Win_Check_Output.txt
 
 # ignore image files
 *.png
+!/keyboards/planck/keymaps/shpoont/Planck.png
+*.jpg
 *.gif
 *.jpg
 

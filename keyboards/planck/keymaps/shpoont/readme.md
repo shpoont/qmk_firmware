@@ -1,2 +1,2 @@
-# Planck Layout Customized for Leonid Komarovsky
-
+# Customized Planck layout
+![Customized Planck layout](Planck.png?raw=true)
