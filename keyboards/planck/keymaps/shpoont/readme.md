@@ -4,6 +4,6 @@
 # Build
 https://docs.qmk.fm/#/getting_started_build_tools?id=docker - read carefully what are the requirements
 
-- Set up docker-machine
+- Set up docker-machine - TODO: check ./util/docker_build.sh if its really required
 - Update git submodules: make git-submodule
 - Build ./util/docker_build.sh planck/rev5:shpoont
