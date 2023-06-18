@@ -1,1 +1,2 @@
-SRC += muse.c
+DEFERRED_EXEC_ENABLE = yes
+CONSOLE_ENABLE = yes
