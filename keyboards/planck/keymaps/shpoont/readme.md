@@ -11,10 +11,6 @@ $ git submodule sync
 $ git submodule update --init
 
 # Build
-$ ./util/docker_build.sh planck/rev5:shpoont
-# or
-$ ./util/docker_build.sh planck/rev6:shpoont
-# or
 $ ./util/docker_build.sh planck/rev7:shpoont
 ```
 
